@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-[!screenshot](.)
+![ScreenShots](https://github.com/aman-s-20/TazaKhabar/blob/main/Assets/Screenshot%20(246).png)
+![ScreenShots](https://github.com/aman-s-20/TazaKhabar/blob/main/Assets/Screenshot%20(247).png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
